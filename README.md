@@ -1,7 +1,5 @@
 # Brazilian_DWBI
 
-![DWBI Banner](https://via.placeholder.com/1200x400/2d3748/ffffff?text=Data+Warehousing+%26+Business+Intelligence)
-
 A comprehensive data warehousing and business intelligence solution implementing ETL processes, dimensional modeling, SSAS cubes, and Power BI reporting for a Brazilian retail sales analytics scenario.
 
 ## 🌟 Project Overview
